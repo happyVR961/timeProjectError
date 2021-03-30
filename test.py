@@ -1,0 +1,2 @@
+a = "vanshika"
+print("a")
